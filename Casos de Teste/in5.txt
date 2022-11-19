@@ -1,0 +1,31 @@
+10
+3 a b c
+5 2 0 5 6 7
+16
+0 a 1
+0 a 2
+0 b 2
+1 a 1
+1 b 3
+2 b 2
+2 b 3
+3 a 2
+3 b 4
+3 c 5
+3 c 6
+4 a 0
+8 b 7
+9 a 3
+9 b 6
+9 a 8
+10
+abbbba
+aabbbb
+bbabbabbabbb
+bbbbbbbbbbb
+-
+abababababab
+bbbbaabbbb
+abba
+a
+aaa
